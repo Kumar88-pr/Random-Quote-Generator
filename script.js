@@ -1,5 +1,5 @@
 const category = "happiness";
-const apiKey = "WyOKp+JvxurJ8ZULsAOMww==mqSHtiYFnskvfR4c";
+const apiKey = "YOUR API KEY";
 const quoteContainer = document.getElementById("quote-container");
 const quoteText = document.getElementById("quote");
 const author = document.getElementById("author");
